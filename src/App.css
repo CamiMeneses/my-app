@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
+.imagen{
+  width: 400px;
+  height: 200px; 
+  margin:2px; 
+}
+*{
+  background-image: url("https://cdn104.picsart.com/203850850001202.gif?r1024x1024");
+background-size:cover;
 
+
+}
+.hello-div{
+  background: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(17,17,17,1) 16%, rgba(43,43,43,1) 63%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+  padding:20px;
+}
+
+p{color: blue}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
