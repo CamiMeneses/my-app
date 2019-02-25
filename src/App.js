@@ -10,6 +10,7 @@ class App extends Component {
       <div className="App">
       <Hello />
       <Video />
+      <p>HOLAAAAAAAAAA!!!</p>
       {/*
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
